@@ -1,0 +1,33 @@
+
+.header {
+    display: flex;
+    font-size: 20px;
+    justify-content: right;
+    
+    
+
+    
+ 
+
+   
+
+
+}
+
+.phone {
+    padding-left: 10px;
+}
+
+.hello {
+    font-size: 30px;
+    text-align: center;
+
+
+
+}
+
+h2 {
+    text-align: right;
+    padding-right: 120px;
+    margin: 0px;
+}
