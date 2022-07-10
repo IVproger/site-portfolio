@@ -3,19 +3,20 @@
     display: flex;
     font-size: 20px;
     justify-content: right;
+    margin: 10px;
+    color: cornflowerblue;
+    padding-right: 10px;
     
-    
+}
 
-    
- 
-
-   
+.twopage{
+    text-decoration: none;
+    color: cornflowerblue;
 
 
 }
-
 .phone {
-    padding-left: 10px;
+    padding-left: 40px;
 }
 
 .hello {
@@ -30,4 +31,7 @@ h2 {
     text-align: right;
     padding-right: 120px;
     margin: 0px;
+}
+body {
+    background-image: url(img/hero-bg.jpg);
 }
